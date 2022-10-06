@@ -35,7 +35,7 @@ const TablePage: NextPage<{ rows: any; columns: any }> = ({
 
   return (
     <div>
-      Hello world
+      Hello world!
       <div className="container m-[4rem]">
         <Link href="/">
           <div className="flex mb-5 text-white gap-2 items-center hover:text-gray-200 cursor-pointer">
